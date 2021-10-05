@@ -1,0 +1,60 @@
+body{
+	background-color: #FFA0A0;
+}
+#heading {
+font-family: Lemon Jelly Personal Use;
+font-size: 50px;
+}
+
+#submit_button
+{
+	margin-top: 20px; 
+	margin-bottom: 20px;
+	color:#FFE3E3; 
+	background-color:#262A53;
+	border-radius: 20px;
+	height: 100px;
+	width: 150px;
+	font-size: 35px;
+	font-family: Lemon Jelly Personal Use;
+}
+#sort_button
+{
+
+	display: none;
+	margin-top: 20px; 
+	margin-bottom: 20px; 
+	color:#FFE3E3; 
+	background-color:#262A53;
+	border-radius: 20px;
+	height: 100px;
+	width: 150px;
+	font-size: 35px;
+	font-family: Lemon Jelly Personal Use;
+}
+
+input
+{
+	margin: 10px;
+}
+#display_name_with_commas
+{
+	border: 5px solid #628395;
+    padding: 10px;
+	background-color:#262A53;
+	border-radius: 10px;
+    width: 50%;
+	color: white;
+	font-family: cursive;
+}
+
+#display_name_without_commas
+{
+	border: 5px solid #262A53;
+    padding: 10px;
+    background-color: #628395;
+	border-radius: 10px;
+    width: 50%;
+	color: white;
+	font-family: cursive;
+}
